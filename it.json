@@ -1,0 +1,330 @@
+{
+  "country": "IT",
+  "categories": {
+    "main": {
+      "licensePlates": {
+        "AG": {
+          "name": "Agrigento"
+        },
+        "AL": {
+          "name": "Alessandria"
+        },
+        "AN": {
+          "name": "Ancona"
+        },
+        "AO": {
+          "name": "Aosta"
+        },
+        "AR": {
+          "name": "Arezzo"
+        },
+        "AP": {
+          "name": "Ascoli Piceno"
+        },
+        "AT": {
+          "name": "Asti"
+        },
+        "AV": {
+          "name": "Avellino"
+        },
+        "BA": {
+          "name": "Bari"
+        },
+        "BT": {
+          "name": "Barletta-Andria-Trani"
+        },
+        "BL": {
+          "name": "Belluno"
+        },
+        "BN": {
+          "name": "Benevento"
+        },
+        "BG": {
+          "name": "Bergamo"
+        },
+        "BI": {
+          "name": "Biella"
+        },
+        "BO": {
+          "name": "Bologna"
+        },
+        "BZ": {
+          "name": "Bolzano"
+        },
+        "BS": {
+          "name": "Brescia"
+        },
+        "BR": {
+          "name": "Brindisi"
+        },
+        "CA": {
+          "name": "Cagliari"
+        },
+        "CL": {
+          "name": "Caltanissetta"
+        },
+        "CB": {
+          "name": "Campobasso"
+        },
+        "CE": {
+          "name": "Caserta"
+        },
+        "CT": {
+          "name": "Catania"
+        },
+        "CZ": {
+          "name": "Catanzaro"
+        },
+        "CH": {
+          "name": "Chieti"
+        },
+        "CO": {
+          "name": "Como"
+        },
+        "CS": {
+          "name": "Cosenza"
+        },
+        "CR": {
+          "name": "Cremona"
+        },
+        "KR": {
+          "name": "Crotone"
+        },
+        "CN": {
+          "name": "Cuneo"
+        },
+        "EN": {
+          "name": "Enna"
+        },
+        "FM": {
+          "name": "Fermo"
+        },
+        "FE": {
+          "name": "Ferrara"
+        },
+        "FI": {
+          "name": "Firenze"
+        },
+        "FG": {
+          "name": "Foggia"
+        },
+        "FC; FO": {
+          "name": "Forl\u00ec-Cesena"
+        },
+        "FR": {
+          "name": "Frosinone"
+        },
+        "GE": {
+          "name": "Genova"
+        },
+        "GO": {
+          "name": "Gorizia"
+        },
+        "GR": {
+          "name": "Grosseto"
+        },
+        "IM": {
+          "name": "Imperia"
+        },
+        "IS": {
+          "name": "Isernia"
+        },
+        "AQ": {
+          "name": "L'Aquila"
+        },
+        "SP": {
+          "name": "La Spezia"
+        },
+        "LT": {
+          "name": "Latina"
+        },
+        "LE": {
+          "name": "Lecce"
+        },
+        "LC": {
+          "name": "Lecco"
+        },
+        "LI": {
+          "name": "Livorno"
+        },
+        "LO": {
+          "name": "Lodi"
+        },
+        "LU": {
+          "name": "Lucca"
+        },
+        "MC": {
+          "name": "Macerata"
+        },
+        "MN": {
+          "name": "Mantova"
+        },
+        "MS": {
+          "name": "Massa-Carrara"
+        },
+        "MT": {
+          "name": "Matera"
+        },
+        "ME": {
+          "name": "Messina"
+        },
+        "MI": {
+          "name": "Milano"
+        },
+        "MO": {
+          "name": "Modena"
+        },
+        "MB": {
+          "name": "Monza e Brianza"
+        },
+        "NA": {
+          "name": "Napoli"
+        },
+        "NO": {
+          "name": "Novara"
+        },
+        "NU": {
+          "name": "Nuoro"
+        },
+        "OR": {
+          "name": "Oristano"
+        },
+        "PD": {
+          "name": "Padova"
+        },
+        "PA": {
+          "name": "Palermo"
+        },
+        "PR": {
+          "name": "Parma"
+        },
+        "PV": {
+          "name": "Pavia"
+        },
+        "PG; PU": {
+          "name": "Perugia"
+        },
+        "PU; PS": {
+          "name": "Pesaro e Urbino"
+        },
+        "PE": {
+          "name": "Pescara"
+        },
+        "PC": {
+          "name": "Piacenza"
+        },
+        "PI": {
+          "name": "Pisa"
+        },
+        "PT": {
+          "name": "Pistoia"
+        },
+        "PN": {
+          "name": "Pordenone"
+        },
+        "PZ": {
+          "name": "Potenza"
+        },
+        "PO": {
+          "name": "Prato"
+        },
+        "RG": {
+          "name": "Ragusa"
+        },
+        "RA": {
+          "name": "Ravenna"
+        },
+        "RC": {
+          "name": "Reggio di Calabria"
+        },
+        "RE": {
+          "name": "Reggio nell'Emilia"
+        },
+        "RI": {
+          "name": "Rieti"
+        },
+        "RN": {
+          "name": "Rimini"
+        },
+        "Roma": {
+          "name": "Roma"
+        },
+        "RO": {
+          "name": "Rovigo"
+        },
+        "SA": {
+          "name": "Salerno"
+        },
+        "SS": {
+          "name": "Sassari"
+        },
+        "SV": {
+          "name": "Savona"
+        },
+        "SI": {
+          "name": "Siena"
+        },
+        "SR": {
+          "name": "Siracusa"
+        },
+        "SO": {
+          "name": "Sondrio"
+        },
+        "SU": {
+          "name": "Sud Sardegna"
+        },
+        "TA": {
+          "name": "Taranto"
+        },
+        "TE": {
+          "name": "Teramo"
+        },
+        "TR": {
+          "name": "Terni"
+        },
+        "TO": {
+          "name": "Torino"
+        },
+        "TP": {
+          "name": "Trapani"
+        },
+        "TN": {
+          "name": "Trento"
+        },
+        "TV": {
+          "name": "Treviso"
+        },
+        "TS": {
+          "name": "Trieste"
+        },
+        "UD": {
+          "name": "Udine"
+        },
+        "VA": {
+          "name": "Varese"
+        },
+        "VE": {
+          "name": "Venezia"
+        },
+        "VB": {
+          "name": "Verbano-Cusio-Ossola"
+        },
+        "VC": {
+          "name": "Vercelli"
+        },
+        "VR": {
+          "name": "Verona"
+        },
+        "VV": {
+          "name": "Vibo Valentia"
+        },
+        "VI": {
+          "name": "Vicenza"
+        },
+        "VT": {
+          "name": "Viterbo"
+        }
+      }
+    }
+  }
+}
